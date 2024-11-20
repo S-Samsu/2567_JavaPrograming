@@ -1,0 +1,19 @@
+Class FirstProgram
+{
+	static void Main(string[] args)
+	{		
+		//console
+		System.out.print("studentId:2413111192"+
+				 "\nstudentName:Samsu Saeleema"+
+				 "\nTopic:FirstProgram"+
+				 "\nDate:11/20/2024");
+		//dialog
+		JOptionPane.showMessageDialog(null,
+			    "studentId:2413111192"+
+			    "\nstudentName:Samsu Saeleema"+
+		            "\nTopic:FirstProgram"+
+			    "\nDate:11/20/2024",
+			    "FirstProgram",
+			    JOptionPane.QUESTION_MESSAGE);
+	}
+}
