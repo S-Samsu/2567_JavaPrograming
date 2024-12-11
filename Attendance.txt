@@ -1,4 +1,4 @@
 studentId:2413111192
 studentName:Samsu Saeleema
-Topic:Control Statements and Confirm Dialog box
-Date:12/4/2024
+Topic:String Method
+Date:12/11/2024
