@@ -1,4 +1,4 @@
 studentId:2413111192
 studentName:Samsu Saeleema
-Topic:Array and arrayMethod
-Date:12/25/2024
+Topic:Class and Object
+Date:1/15/2024
