@@ -1,4 +1,4 @@
 studentId:2413111192
 studentName:Samsu Saeleema
-Topic:Class and Object
-Date:1/15/2024
+Topic:Encapsulation Concept
+Date:1/22/2024
