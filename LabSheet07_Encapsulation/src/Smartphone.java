@@ -54,4 +54,9 @@ public class Smartphone {
 			System.out.println("Error: Additional storage must be positive!");
 		}
 	}
+	public int getRemainingStorage(int usedStorage)  {
+		if(usedStorage <= 0  && storageCapacity >= 0) {
+			
+		}
+	}
 }
